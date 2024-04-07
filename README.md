@@ -1,7 +1,7 @@
 # AsciiArt
 A simple image to ASCII art converter using the "ascii-magic" Python library.
 
-![ascii art](https://github.com/GigabyteCode/AsciiArt/assets/154292798/e88be953-a546-4b8c-95e2-5f8dba51be22)
+![Screenshot 2024-04-08 073349](https://github.com/GigabyteCode/AsciiArt/assets/154292798/abeb1399-0182-4842-b86d-2eddf7a9301a)
 
 
 
